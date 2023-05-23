@@ -34,7 +34,6 @@ nav ul li{
     list-style: none;
     display: flex;
     transition: 0.1s ease-out;
-    flex-direction: row;
     text-align: right;
     margin: 10px;
     align-items: center; 
